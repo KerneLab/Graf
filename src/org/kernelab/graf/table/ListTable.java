@@ -6,7 +6,6 @@ import java.util.List;
 
 import javax.swing.JTable;
 
-import org.kernelab.basis.EssentialTable;
 import org.kernelab.basis.Tools;
 import org.kernelab.basis.VectorAccessible;
 

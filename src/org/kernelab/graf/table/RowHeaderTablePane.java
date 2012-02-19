@@ -22,8 +22,6 @@ import javax.swing.table.JTableHeader;
 import javax.swing.table.TableCellRenderer;
 import javax.swing.table.TableColumnModel;
 
-import org.kernelab.basis.EssentialTable;
-
 public class RowHeaderTablePane<T> extends JScrollPane
 {
 
